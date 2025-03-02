@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Harshvardhan Tripathi
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Python and DSA
+- 💞️ I’m looking to collaborate on some projects
+- 📫 Email- harshvardhan.tripathi.1234@gmail.com
