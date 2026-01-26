@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harshvardhan Tripathi
+- 👋 Hi, I’m Harsh Tripathi
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Python and DSA
 - 💞️ I’m looking to collaborate on some projects
