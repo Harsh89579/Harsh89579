@@ -50,7 +50,7 @@ I am a passionate Software Engineer focused on building intelligent systems that
 ### 📫 Let's Connect!
 
 - **Email**: [harshvardhan.tripathi.1234@gmail.com](mailto:harshvardhan.tripathi.1234@gmail.com)
-- **LinkedIn**: [Harsh Tripathi](linkedin.com/in/harsh-tripathi8957)
+- **LinkedIn**: [Harsh Tripathi]((https://www.linkedin.com/in/harsh-tripathi8957/))
 - **Portfolio**: [My Website](https://github.com/Harsh89579/portfolio)
 
 ---
